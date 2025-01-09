@@ -35,11 +35,11 @@ ifconfig
 ```
 
 ### 8. URL para Clone
-Insira a URL do site que deseja clonar. Neste exemplo, estamos utilizando o Facebook:
+Insira a URL do site que deseja clonar. Neste exemplo, estamos utilizando o Instagram:
 ```
-http://www.facebook.com
-
-Resultado:
+http://www.instagram.com
+```
+### Resultado:
 
 ## Imagem do site clone
 
